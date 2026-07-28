@@ -39,9 +39,9 @@ This repository distributes the **compiled APK only** — no source code, no bui
 
 > Add your own screenshots here once you've built and installed the app — a phone running the Dashboard, a Modules detail page, and the Settings theme picker are good ones to show. Recommended: PNG, phone aspect ratio, dropped into `docs/screenshots/` and referenced like:
 >
-> ```markdown
-> <img src="docs/screenshots/dashboard.png" width="240"/> <img src="docs/screenshots/modules.png" width="240"/> <img src="docs/screenshots/settings.png" width="240"/>
-> ```
+
+<img src="docs/screenshots/dashboard.png" width="240"/> <img src="docs/screenshots/modules.png" width="240"/> <img src="docs/screenshots/settings.png" width="240"/>
+
 
 ## 📥 Installation
 
