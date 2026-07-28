@@ -6,7 +6,7 @@
 [![Min SDK](https://img.shields.io/badge/Min%20SDK-23%20(Android%206.0%2B)-blue)](#)
 [![Ads](https://img.shields.io/badge/ads-none-success)](#)
 [![Release](https://img.shields.io/github/v/release/xikvak3/xikvak_x_info?label=latest%20release)](../../releases/latest)
-[![Downloads](https://img.shields.io/github/downloads/xikvak3/xikvak_x_info?total)](../../releases)
+[![Downloads](https://img.shields.io/github/downloads/xikvak3/xikvak_x_info/total)](../../releases)
 
 **A no-nonsense Android diagnostics app — every number comes from a real API, or it's honestly marked as unavailable.**
 
