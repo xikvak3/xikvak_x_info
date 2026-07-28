@@ -72,7 +72,7 @@ English · Oʻzbekcha · Русский · Türkçe · العربية · हि�
 DeviceX is free and has no ads — and it will stay that way. If it's useful to you, a donation of any size keeps development alive:
 
 - **Card (Visa):** `4916 9903 1117 9219`
-- **Card holder:** XLKVAK
+- **Card holder:** XIKVAK
 - **Telegram:** [@XlKVAK](https://t.me/XlKVAK)
 - **Email:** [xikvak3@gmail.com](mailto:xikvak3@gmail.com)
 
