@@ -1,6 +1,6 @@
 <div align="center">
 
-![XIKVAK DeviceX](docs/banner.png)
+![XIKVAK DeviceX](docs/banner1.png)
 
 [![Platform](https://img.shields.io/badge/platform-Android-3DDC84?logo=android&logoColor=white)](#)
 [![Min SDK](https://img.shields.io/badge/Min%20SDK-23%20(Android%206.0%2B)-blue)](#)
